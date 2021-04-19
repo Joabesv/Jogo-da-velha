@@ -46,8 +46,6 @@ td {
 }
 
 footer {
-  /* text-align: center;
-  color: #9595fc; */
   position: fixed;
   left: 0;
   bottom: 0;
@@ -63,5 +61,4 @@ a {
 
 a:hover {
   text-decoration: underline;
-  transition: 1s;
 }
