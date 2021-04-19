@@ -1,2 +1,14 @@
-# Jogo-da-velha
-Realizado para testar os conhecimentos com js, css será adicionado depois
+<h1 align="center">Nome do Projeto</h1>
+<p align="center">Jogo da velha realizado puramente com JavaScript</p>
+
+<h4 align="center"> 
+	🚧 Em construção...  🚧
+</h4>
+
+- CSS ✅
+- Otimização do código ⌛
+
+<p align="center">
+ Objetivo: Realizar um projeto com arrays multidimensionais, incrementar Github e se 
+ desafiar. 
+</p>
