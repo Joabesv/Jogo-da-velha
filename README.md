@@ -1,4 +1,4 @@
-<h1 align="center">Nome do Projeto</h1>
+<h1 align="center">Tic Tac Toe / Jogo Da Velha</h1>
 <p align="center">Jogo da velha realizado puramente com JavaScript</p>
 
 <h4 align="center"> 
